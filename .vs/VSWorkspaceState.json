@@ -1,0 +1,10 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\secret",
+    "\\vault-web-server",
+    "\\vault-web-server\\getapi"
+  ],
+  "SelectedNode": "\\vault-web-server\\getapi\\getapi.go",
+  "PreviewInSolutionExplorer": true
+}
